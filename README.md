@@ -1,4 +1,4 @@
-_Hello there. I see you have stumbled upon this repo. Lets get one thing out of the way real quick, I'm not a pro at scripting, I just so it in my free time. I plan on doing this professionally, but with my adhd I don't know if I could keep my attention to focus on one thing for long amounts of time like that._
+_Hello there. I see you have stumbled upon this repo. Lets get one thing out of the way real quick, I'm not a pro at scripting, I just do it in my free time. I plan on doing this professionally, but with my adhd I don't know if I could keep my attention to focus on one thing for long amounts of time like that._
 
 This is mainly used for backing up scripts that I make for Roblox. If you have any questions, or would like to have me make you a script, then please, contact me at **2_Buckets@proton.me** or at **2_Bucketsᙠ#4251** on discord. If you want to just stop by and say hi, feel free to do so, I don't mind the company much. Anyways, I've talked for long enough.
 
